@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Hi 👋, I'm a French engineering student in ESIREM. I'm passionate about networks, cybersecurity and computer science 🧑‍💻.
+  Hi 👋, I'm a French engineering student in ESIREM. I'm passionate about networks, cybersecurity and computer science 🧑‍💻
 </h3>
 
 ## ℹ️ About me 
