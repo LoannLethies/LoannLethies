@@ -38,15 +38,4 @@
   | CCNA4 | Connecting Networks | 🕗 |
 
 
-## 📊 My GitHub Stats
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=LoannLethies&label=Profile%20views&color=0e75b6&style=flat" alt="LoannLethies" /> </p>
-
-
-## 🌟 My favorite projects
-
-- [Nom du projet](https://lien-vers-le-projet.com) : une brève description du projet.
-- [Nom du projet](https://lien-vers-le-projet.com) : une brève description du projet.
-- [Nom du projet](https://lien-vers-le-projet.com) : une brève description du projet.
-
 Feel free to contact me if you have any question or collaboration ideas! 🤝
