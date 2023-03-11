@@ -35,7 +35,7 @@
   | CCNA1 | Introduction to Networks | ✅ |
   | CCNA2 | Routers and Routing Basics | 🕑 |
   | CCNA3 | Scaling Networks | 🕑 |
-  | CCNA4 | Connecting Networks | 🕑 |
+  | CCNA4 | Connecting Networks | 🕗 |
 
 
 ## 📊 My GitHub Stats
