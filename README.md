@@ -33,9 +33,9 @@
   | Certification | Description | Status |
   | :---------:| :---------:| :---------:|
   | CCNA1 | Introduction to Networks | ✅ |
-  | CCNA2 | Routers and Routing Basics | 🕑 |
-  | CCNA3 | Scaling Networks | 🕑 |
-  | CCNA4 | Connecting Networks | 🕗 |
+  | CCNA2 | Routers and Routing Basics | ✅ |
+  | CCNA3 | Scaling Networks | ✅ |
+  | CCNA4 | Connecting Networks | ✅ |
 
 
 Feel free to contact me if you have any question or collaboration ideas! 🤝
